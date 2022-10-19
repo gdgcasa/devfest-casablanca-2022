@@ -7,6 +7,7 @@ export default function Agenda() {
   return (
     <>
       <DefaultHead title='Agenda - GDG DevFest Casablanca 2022' />
+
       <main>
         <section>
           <Link href='/'>
