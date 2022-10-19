@@ -104,8 +104,12 @@ export default function HomeScreen() {
         </section>
 
         <section className='flex min-h-[40vh] flex-col items-center justify-center gap-12 px-4 py-8 md:px-0'>
-          <h3 className='text-center text-5xl font-bold'>
-            Check our speaker list
+          <h3>
+            <Link href='/speakers'>
+              <a className='text-center text-5xl font-bold hover:text-blue-200'>
+                Check our speaker list
+              </a>
+            </Link>
           </h3>
           <div className='mx-auto h-[80vh] w-full max-w-5xl overflow-hidden rounded-lg'>
             <iframe

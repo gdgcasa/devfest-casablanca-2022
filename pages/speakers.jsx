@@ -23,7 +23,7 @@ export default function Agenda() {
         <section>
           <iframe
             className='h-screen w-full'
-            src='https://sessionize.com/view/9qsrbrxt/GridSmart?format=Embed_Styled_Html&isDark=True&title=Devfest%20Casablanca%202022'
+            src='https://sessionize.com/view/9qsrbrxt/SpeakerWall?format=Embed_Styled_Html&isDark=True&title=Devfest%20Casablanca%202022'
           />
         </section>
       </main>
